@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fallout Concept Application V1", "Fallout Concept Application V1.vbproj", "{7C168A57-5445-4E2C-92BC-E0690BC04FE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C168A57-5445-4E2C-92BC-E0690BC04FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C168A57-5445-4E2C-92BC-E0690BC04FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C168A57-5445-4E2C-92BC-E0690BC04FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C168A57-5445-4E2C-92BC-E0690BC04FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95021591-65F9-416F-8923-18361D7BCFF7}
+	EndGlobalSection
+EndGlobal
